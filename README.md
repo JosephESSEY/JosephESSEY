@@ -2,7 +2,9 @@
 
 Je suis Joseph ESSEY et je suis passionné par le Développement Web et Logiciel. 
 
-- 🌱 Actuellement en train d'apprendre React, Django.
+Utilisant les technos Js Comme (ReactJs / NodeJs) et Python comme Django
+
+- 🌱 Actuellement en train d'apprendre ReactNative.
 - 👯 Je suis ouvert à la collaboration sur des projets intéressants.
 - 💬 Contactez-moi pour discuter de Développement web et Logiciel.
 
