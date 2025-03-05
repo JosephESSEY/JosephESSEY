@@ -8,7 +8,7 @@ Utilisant les technos Js Comme (ReactJs / NodeJs) et Python comme Django
 - 👯 Je suis ouvert à la collaboration sur des projets intéressants.
 - 💬 Contactez-moi pour discuter de Développement web et Logiciel.
 
-![Pull Shark Badge]()
+![Pull Shark Badge](https://github.com/users/JosephESSEY/achievements/pull-shark)
 
 
 
