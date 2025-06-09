@@ -24,6 +24,10 @@ Passionate about building scalable web applications and robust backend systems. 
 
 ![JosephESSEY's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosephESSEY&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephESSEY&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JosephESSEY&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=JosephESSEY&theme=radical&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![Carte d'Activité](https://github-readme-activity-graph.vercel.app/graph?username=JosephESSEY&theme=radical&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
