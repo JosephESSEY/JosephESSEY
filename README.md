@@ -1,19 +1,38 @@
-# Bienvenue sur mon profil GitHub !
+# 👋 Hi, I’m JosephESSEY
 
-Je suis Joseph ESSEY et je suis passionné par le Développement Web et Logiciel. 
+## 🚀 Developer | Full Stack Enthusiast
 
-Utilisant les technos Js Comme (ReactJs / NodeJs) et Python comme Django
+Passionate about building scalable web applications and robust backend systems. I specialize in JavaScript and its modern ecosystems, bringing ideas to life with clean code and creativity. 
 
-- 🌱 Actuellement en train d'apprendre ReactNative.
-- 👯 Je suis ouvert à la collaboration sur des projets intéressants.
-- 💬 Contactez-moi pour discuter de Développement web et Logiciel.
+---
 
+### 🛠️ Tech Stack
 
-![Pull Shark Badge](https://github.com/users/JosephESSEY/achievements/pull-shark)
+- **Backend:** NodeJs, ExpressJs, MySQL, PostGresql
+- **Frontend:** ReactJs, NextJs
 
+---
 
+### 🌟 Featured Work
 
-<!---
-JosephESSEY/JosephESSEY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Afrodites Agency**  
+  Building innovative solutions and leading projects that make an impact.
+
+---
+
+### 📊 GitHub Stats
+
+![JosephESSEY's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosephESSEY&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephESSEY&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JosephESSEY-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/JosephESSEY)
+
+---
+
+<!--
+**JosephESSEY/JosephESSEY** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+-->
