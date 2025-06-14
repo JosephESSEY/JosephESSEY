@@ -1,6 +1,6 @@
-# 👋 Hi, I’m JosephESSEY
+# 👋 Hi, I’m Joseph ESSEY
 
-## 🚀 Developer | Full Stack Enthusiast
+## 🚀 Developer | Backend Enthusiast
 
 Passionate about building scalable web applications and robust backend systems. I specialize in JavaScript and its modern ecosystems, bringing ideas to life with clean code and creativity. 
 
