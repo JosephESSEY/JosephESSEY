@@ -27,7 +27,7 @@ Passionate about building scalable web applications and robust backend systems. 
 ---
 
 ![JosephESSEY's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosephESSEY&show_icons=true&theme=react)
-[![GitHub Streak](https://streak-stats.demolab.com?user=JosephESSEY&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JosephESSEY&theme=react&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
