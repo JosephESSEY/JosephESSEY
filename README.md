@@ -1,26 +1,26 @@
-# 👋 Hi, I’m Joseph ESSEY
+# Hi, I’m Joseph ESSEY
 
-## 🚀 Developer | Backend Enthusiast
+## Developer | Backend Enthusiast
 
 Passionate about building scalable web applications and robust backend systems. I specialize in JavaScript and its modern ecosystems, bringing ideas to life with clean code and creativity. 
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 - **Backend:** NodeJs, ExpressJs, MySQL, PostGresql
 - **Frontend:** ReactJs, NextJs
 
 ---
 
-### 🌟 Featured Work
+### Featured Work
 
 - **Afrodites Agency**  
   Building innovative solutions and leading projects that make an impact.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ---
 
