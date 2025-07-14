@@ -10,7 +10,7 @@ Passionate about building scalable web applications and robust backend systems. 
 
 - **Backend:** NodeJs, ExpressJs, MySQL, PostGresql
 - **Frontend:** ReactJs, NextJs
-- **SQL:** PostgresSQL, MySQL
+- **Langage:** TypeScript
 
 ---
 
