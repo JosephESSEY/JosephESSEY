@@ -8,9 +8,11 @@ Passionate about building scalable web applications and robust backend systems. 
 
 ###  Tech Stack
 
-- **Backend:** NodeJs, ExpressJs, MySQL, PostGresql
+- **Backend:** NodeJs/ExpressJs
 - **Frontend:** ReactJs, NextJs
 - **Langage:** TypeScript
+- **DevOps:** Docker, GitHub Action
+- **SQL:** MySQL, PostGresql 
 
 ---
 
