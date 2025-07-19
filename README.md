@@ -1,4 +1,4 @@
-# Hi, I’m Joseph ESSEY
+# Hi, I’m Joseph ESSEY (DevJoseph)
 
 ## Developer | Backend Enthusiast
 
