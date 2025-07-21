@@ -1,4 +1,4 @@
-# Hi, I’m Sejro Kossivi Joseph ESSEY
+# Hi, I’m Sedjro Kossivi Joseph ESSEY
 
 ## Developer | Backend Enthusiast
 
