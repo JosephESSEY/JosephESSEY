@@ -34,9 +34,7 @@ Passionate about building scalable web applications and robust backend systems. 
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosephESSEY&theme=react" />
-</p>
+<!--> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosephESSEY&theme=react" /> </p> <-->
 
 
 ---
