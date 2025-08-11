@@ -34,18 +34,8 @@ Passionate about building scalable web applications and robust backend systems. 
 
 ---
 
-<!--> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosephESSEY&theme=react" /> </p> <-->
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosephESSEY&theme=react" /> </p> 
 
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephESSEY&layout=compact&theme=react)
-
----
-
-[![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=JosephESSEY&theme=react&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 [![Carte d'Activité](https://github-readme-activity-graph.vercel.app/graph?username=JosephESSEY&theme=react&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
