@@ -1,18 +1,16 @@
 # Hi, I’m Joseph ESSEY
 
-## Developer | Backend Enthusiast
+## Backend Developer & Junior GIS FullStack Developer
 
-Passionate about building scalable web applications and robust backend systems. I specialize in JavaScript and its modern ecosystems, bringing ideas to life with clean code and creativity. 
+Passionate about building scalable web applications and robust backend systems. I specialize in TypeScript and its modern ecosystems, bringing ideas to life with clean code and creativity. 
 
 ---
 
 ###  Tech Stack
 
-- **Backend:** NodeJs/ExpressJs
+- **Backend:** NodeJs, Go, Python, Php
 - **Frontend:** ReactJs, NextJs
-- **Langage:** TypeScript
-- **SQL:** MySQL, PostGresql
-- **Others:** Docker, GitHub Action 
+- **Favorite langage:** TypeScript
 
 ---
 
