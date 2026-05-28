@@ -1,23 +1,8 @@
-# Hi, I’m Joseph ESSEY
+# Hi, I’m Sedjro Kossivi Joseph ESSEY
 
-## Backend Developer & Junior GIS FullStack Developer
+## GIS FullStack Developer
 
 Passionate about building scalable web applications and robust backend systems. I specialize in TypeScript and its modern ecosystems, bringing ideas to life with clean code and creativity. 
-
----
-
-###  Tech Stack
-
-- **Backend:** NodeJs, Go, Python, Php
-- **Frontend:** ReactJs, NextJs
-- **Favorite langage:** TypeScript
-
----
-
-### Featured Work
-
-- **Afrodites Agency**  
-  Building innovative solutions and leading projects that make an impact.
 
 ---
 
