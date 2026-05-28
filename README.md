@@ -2,7 +2,7 @@
 
 ## GIS FullStack Developer
 
-Passionate about building scalable web applications and robust backend systems. I specialize in TypeScript and its modern ecosystems, bringing ideas to life with clean code and creativity. 
+I architect robust backend systems, orchestrate tech events and train developers Unique quadruple expertise: GIS FullStack development, backend architecture, tech event organization, and training. With over 4 years of experience, I design and deploy innovative geospatial applications, robust APIs, optimize databases (PostgreSQL/PostGIS), and deploy high-performance cloud infrastructures (Node.js, Python, Docker, Kubernetes). My expertise includes managing and analyzing spatial data for interactive mapping solutions. I also orchestrate innovative tech events (conferences, hackathons, meetups).
 
 ---
 
